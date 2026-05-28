@@ -2,7 +2,7 @@
 
 # Cómo usar IA para estudiar y hacer ejercicios
 
-## Introducción
+## Introducción (Visto el 28/05)
 
 Durante el bootcamp, ChatGPT y otras herramientas de IA pueden ser un apoyo disponible 24/7. La clave está en **usarlas como apoyo de aprendizaje, no como solucionador instantáneo de problemas**.
 
